@@ -5,9 +5,9 @@ VI-Logging-Task 1
 Node.js-sovellus joka demonstroi Winston-lokituskirjaston käyttöä.
 
 ## Käytetyt versiot
-- Node.js: 18+
+- Node.js: 20.20.1
 - Winston: 3.11.0
-- Mocha: 10.x
+- Mocha: 10.8.2
 
 ## Asennus
 npm install
