@@ -1,0 +1,18 @@
+{
+  "name": "task1-logging",
+  "version": "1.0.0",
+  "description": "VI-Logging-Task 1",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha test/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
